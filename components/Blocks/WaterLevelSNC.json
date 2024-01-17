@@ -33,7 +33,8 @@
         "NodeMCU",
         "RPI3B",
         "ATTiny85",
-        "Teensy32"
+        "Teensy32",
+        "ESP32DevKitC"
       ],
       "parts": [
         {
